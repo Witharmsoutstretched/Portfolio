@@ -1,5 +1,6 @@
 My Khan Academy learning achievements.  
 Power BI and Python script files can be represented if necessary.  
+  
 The list of math and statistics courses studied on Khan Academy:  
 •  Arithmetic  
 •  Basic Geometry and Measurement  
