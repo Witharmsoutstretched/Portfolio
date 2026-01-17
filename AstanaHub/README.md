@@ -1,1 +1,1 @@
-Power BI Test Project for Astana Hub
+Power BI Test Project for Astana Hub ACADEMICA COURSES
